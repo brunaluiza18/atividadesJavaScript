@@ -1,18 +1,16 @@
-# ⚡ Atividades de Lógica com JavaScript
+# 🧠 Desafios de Lógica e Algoritmos (JavaScript)
 
-Este repositório é dedicado à resolução de algoritmos e exercícios de lógica de programação utilizando **JavaScript**. Aqui estão documentados os fundamentos que utilizo para resolver problemas e construir aplicações robustas.
+Repositório dedicado ao aprimoramento constante do raciocínio lógico e resolução de problemas matemáticos e computacionais através do JavaScript.
 
-## 🛠️ O que eu pratico aqui:
-- **Estruturas de Controle**: Condicionais (`if/else`, `switch`) para tomada de decisão no sistema.
-- **Laços de Repetição**: `for`, `while` e `map` para manipulação de grandes conjuntos de dados.
-- **Tratamento de Strings e Números**: Essencial para validação de campos (como CPF, CNPJ e valores monetários).
-- **Arrays e Objetos**: Estruturação de dados para simular inventários e cadastros.
+### 🎯 Objetivo
+- Praticar a sintaxe moderna do ES6+.
+- Resolver desafios de plataformas como Beecrowd, HackerRank ou exercícios de formação.
+- Manter o "músculo" da programação sempre ativo.
 
-## 🚀 Relevância Técnica
-A lógica de programação é a base para o diagnóstico de erros. Ter domínio sobre esses conceitos me permite:
-1. Analisar por que uma função de cálculo de desconto não está sendo aplicada corretamente.
-2. Validar se a entrada de dados do usuário está no formato esperado pela API.
-3. Entregar soluções rápidas e eficientes para problemas complexos.
+### 🤝 Relevância Profissional
+Para um **Analista de Suporte**, a rapidez em entender um loop ou uma condicional é o que define a agilidade do atendimento. Este repositório é a prova dessa agilidade treinada.
 
 ---
-💻 **Bruna Luiza** - Focada em transformar lógica em soluções práticas.
+### 🤝 Contato Profissional
+- **LinkedIn:** [goncalvesbrunal](https://www.linkedin.com/in/goncalvesbrunal/)
+- **E-mail:** [brunaluiza.contat@gmail.com](mailto:brunaluiza.contat@gmail.com)
